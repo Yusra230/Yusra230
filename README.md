@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Yusra
 #  **MERN Stack Developer | AI Enthusiast | Lifelong Learner**
 
-Email Me 👉 ✉️ **its.me.yusra2307@gmail.com** For Collaboration/Project. 😊
+Email Me 👉 ✉️ **yusratariq.dev@gmail.com** For Collaboration/Project. 😊
 
 I’m a developer who loves turning ideas into real-world web applications — with clean code, powerful logic, and great UI.
 
