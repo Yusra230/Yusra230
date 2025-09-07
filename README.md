@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Yusra
-#  **MERN Stack Developer | AI Enthusiast | Lifelong Learner**
+#  **MERN Stack Developer | Exploring AI Integration in Web Apps**
 
 Email Me 👉 ✉️ **yusratariq.dev@gmail.com** For Collaboration/Project. 😊
 
