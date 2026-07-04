@@ -1,19 +1,27 @@
-# 💫 Hi 👋, I'm Yusra
-#  **MERN Stack Developer | Exploring AI Integration in Web Apps**
+# Hi👋, I'm Yusra
+#  **Full-Stack Developer | Building AI-Powered Web Applications**
 
-Email Me 👉 ✉️ **yusratariq.dev@gmail.com** For Collaboration/Project. 😊
+Email Me 👉**yusratariq.dev@gmail.com** For Collaboration/Project. 😊
 
-I’m a developer who loves turning ideas into real-world web applications — with clean code, powerful logic, and great UI.
+I'm a Full-Stack Developer who enjoys building modern, scalable, and user-friendly web applications.
 
-I specialize in the **MERN Stack (MongoDB, Express.js, React.js, Node.js)** and have a strong eye for frontend design using **Tailwind CSS, Bootstrap, and responsive layouts**. With a background in Artificial Intelligence, I’m also passionate about building smart, user-friendly digital experiences.
+I work mainly with React, Node.js, Express.js, MongoDB, TypeScript, and Tailwind CSS to create fast and responsive applications. I also integrate AI into web products to build smart features that solve real problems.
 
-- 🚀 Currently building mern-stack projects using React & Node
+I believe great software is more than writing code, it's about creating products that are reliable, easy to use, and make a positive impact.
 
-- 🤖 Exploring ways to merge AI with web development
+What I Do
+- Build full-stack web applications using the MERN stack
+- Develop responsive and modern user interfaces with React & Tailwind CSS
+- Build secure and scalable backend APIs with Node.js & Express
+- Integrate AI into web applications to create intelligent user experiences
+- Write clean, maintainable, and production-ready code
+  
+🌱 Currently
+- Building AI-powered full-stack applications
+- Learning modern technologies and best practices
+- Looking for opportunities to contribute, grow, and solve meaningful problems
 
-- 🤝 Open to exciting collaborations & learning opportunities
-
-- **Let's build something impactful — clean, creative, and code-powered. ⚡**
+**```Building software that is clean, practical, and powered by modern AI.```**
 
 <div align="center">
   
